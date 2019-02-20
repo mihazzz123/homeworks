@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(228, 228, 228);
+}
+.container {
+  margin: 100px auto;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0 0 20px 3px #818080;
+}
+.heading {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+.row {
+  display: flex;
+  justify-content: center;
+}
+.col-12 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+@media (max-width: 576px) {
+  .column_4 {
+    order: -1;
+  } 
+}
