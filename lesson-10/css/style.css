@@ -1,0 +1,99 @@
+body {
+  color: #32325f;
+}
+img {
+  display: inline-block;
+  width: 100%;
+}
+.main-wrapper-navbar {
+  margin-bottom: 100px;
+}
+.main-hero {
+  padding-bottom: 190px;
+}
+.navbar span {
+  color: #95989a;
+  font-size: 20px;
+  font-weight: 700;
+}
+.social a {
+  color: #95989a;
+  font-size: 24px;
+  font-weight: 400;
+}
+.subtitle {
+  font-size: 20px;
+  font-weight: 400;
+  padding-bottom: 15px;
+}
+.title {
+  font-size: 48px;
+  font-weight: 700;
+  padding-bottom: 25px;
+}
+.main-desc {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+  padding-bottom: 15px;
+}
+.price-tag {
+  font-size: 20px;
+  font-weight: 400;
+  padding-bottom: 15px;
+}
+.price {
+  font-size: 48px;
+  font-weight: 400;
+  padding-bottom: 50px;
+}
+.img-book {
+  width: 100%;
+}
+.button {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: none;
+  margin-right: 20px;
+}
+.img-main {
+  margin-bottom: 40px;
+  max-width: 85px;
+}
+.titles {
+  margin-bottom: 100px;
+}
+.subtitles {
+  padding-top: 90px;
+}
+.main-row {
+  padding-bottom: 130px;
+}
+.reviews-row-wrapper {
+  padding-bottom: 112px;   
+}
+.footer {
+  background: #32325f;
+  color: #fff;
+  text-decoration: none;
+}
+.footer-row-wrapper {
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+.footer-subtitle {
+  font-size: 24px;
+  font-weight: 700;
+  padding-bottom: 35px;
+}
+.footer-desc {
+  font-size: 16px;
+  font-weight: 700;
+}
+.footer-desc a{
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  text-decoration: none;
+}
